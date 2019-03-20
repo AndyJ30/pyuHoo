@@ -1,5 +1,5 @@
 # pyuHoo
-Wrapper for uHoo Business EU API
+Wrapper for [uHoo](https://www.uhooair.co.uk/) Business EU API
 
 # Usage
 To use the pyuHoo library:
