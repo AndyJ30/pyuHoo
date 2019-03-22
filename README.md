@@ -30,13 +30,13 @@ Returns a `list` containing the MAC address, Serial Number and Name of each devi
 ]
 ```
 
-## getLatestValues( serialNumber )
+## getLatestData( serialNumber )
 Gets the latest set of readings for the given serialNumber.
 
 Returns a `dict` containing the recorded parameters:
 
 ```python
->>> uHoo.getLatestValues('000000000000')
+>>> uHoo.getLatestData('000000000000')
 {
   'Temperature': '20.0',          #(°C or °F)
   'Relative Humidity': '46.4',    #(%)
