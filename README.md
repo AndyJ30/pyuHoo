@@ -68,7 +68,7 @@ Returns a `list` of `dict`s containing the recorded parameters:
 ```
 
 ## getDailyData( serialNumber, prevDateTime )
-Gets the hourly data for the given serialNumber in the given hour. Values are the average for each hour.
+Gets the daily data for the given serialNumber in the given day. Values are the average for each hour.
 
 Returns a `list` of `dict`s containing the recorded parameters:
 
